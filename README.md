@@ -1,11 +1,21 @@
-# sara-project.github.io
-project's website
+#### **Descrição:**
 
-##### Descrição PT-BR ##### :
+Este repositório foi criado a fim de hospedar um breve portfólio do software _Dmitri - Escolhendo o Livro Didático_, desenvolvido a partir de pesquisas de iniciação científica realizadas no [IFBA - Campus Santo Amaro](http://portal.ifba.edu.br/santo-amaro).
 
-Esta página vem sendo desenvolvida com o objetivo de apresentar ao público o S.A.R.A Project e seus princiapis propósitos e funcionalidades.
+### **Objetivo da ferramenta:**
 
-Por se tratar de um software com licença GLP, é importante ressaltar que qualquer um que esteja interessado em apoiar o projeto pode contribuir com o mesmo, seja com códigos, traduções, design, etc.
+O software _Dmitri - Escolhendo o Livro Didático_ tem como objetivo auxiliar professores do Ensino Médio da rede pública na seleção do livro didático que será adotado na instituição que leciona.
 
-Se você está interessado em contribuir, mas não sabe por onde ou como começar, basta entrar em contato com a equipe desenvolvedora.
-Seu apoio será muito bem-vindo!
+### **Download da aplicação (versão demo):**
+
+- [Clique aqui para baixar a versão demo da aplicação](https://drive.google.com/open?id=1YqVnEwtNNsCtr0rBL-eE978BsSacSBsb)
+
+### **Manual de instruções básicas:**
+
+- [Clique aqui para baixar o manual de instruções básicas da aplicação](https://drive.google.com/open?id=1e75yX-1zXNCqN-wdGrbGUxusXoGC7Fue)
+
+### **Desenvolvedores do software:**
+
+- Adriana Vieira
+- [Marcio Araújo](https://www.linkedin.com/in/marcio-ara%C3%BAjo-9467b36/)
+- [Matheus Victor](https://github.com/matheusvictor)
